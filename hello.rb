@@ -1,0 +1,15 @@
+def soma(num1, num2)
+	num1 + num2
+end
+
+def sub(num1, num2)
+	num1 - num2
+end
+
+def mult(num1, num2) 
+	num1*num2
+end
+
+def div(num1, num2)
+	num1/num2
+end
